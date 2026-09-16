@@ -97,7 +97,8 @@
       },
       "product": "Steinadler Pro Offroad",
       "language": "English",
-      "version": ""
+      "version": "",
+      "sort_priority": 0
     },
     "files/01-manuals/steinadler-pro-l7e/2026-09-source/steinadler-pro-l7e-a1-manual-en.pdf": {
       "id": "official-l7e",
@@ -113,7 +114,8 @@
       },
       "product": "Steinadler Pro L7e-A1",
       "language": "English",
-      "version": ""
+      "version": "",
+      "sort_priority": 0
     },
     "files/09-after-sales/terms/v1.0-20240805/rj-tech-aftersales-terms-en-v1.0-20240805.pdf": {
       "id": "official-warranty",
@@ -129,7 +131,416 @@
       },
       "product": "RJ Tech",
       "language": "English",
-      "version": "V1.0_20240805"
+      "version": "V1.0_20240805",
+      "sort_priority": 0
+    },
+    "files/02-certifications/archive-2026-09-16/1.2-battery-air-transport-report-3e72b37c5a.pdf": {
+      "id": "archive-3e72b37c5a03c31a",
+      "title": {
+        "zh": "电池航空运输报告",
+        "en": "Battery air transport report",
+        "de": "Lufttransportbericht der Batterie"
+      },
+      "description": {
+        "zh": "资料原件，按原文中的型号、版本和日期使用。",
+        "en": "Original document; refer to its stated model, revision and date.",
+        "de": "Originalunterlage; Modell, Revision und Datum im Dokument beachten."
+      },
+      "product": "RJ Tech / Steinadler",
+      "language": "",
+      "version": "",
+      "sort_priority": 1
+    },
+    "files/02-certifications/archive-2026-09-16/1.2-battery-ce-emc1-b3c6ce4c91.pdf": {
+      "id": "archive-b3c6ce4c913cfd48",
+      "title": {
+        "zh": "电池 CE-EMC 资料（一）",
+        "en": "Battery CE-EMC document 1",
+        "de": "Batterie: CE-EMC-Unterlage 1"
+      },
+      "description": {
+        "zh": "资料原件，按原文中的型号、版本和日期使用。",
+        "en": "Original document; refer to its stated model, revision and date.",
+        "de": "Originalunterlage; Modell, Revision und Datum im Dokument beachten."
+      },
+      "product": "RJ Tech / Steinadler",
+      "language": "",
+      "version": "",
+      "sort_priority": 1
+    },
+    "files/02-certifications/archive-2026-09-16/1.2-battery-ce-emc2-d64dca8967.pdf": {
+      "id": "archive-d64dca8967b6c66a",
+      "title": {
+        "zh": "电池 CE-EMC 资料（二）",
+        "en": "Battery CE-EMC document 2",
+        "de": "Batterie: CE-EMC-Unterlage 2"
+      },
+      "description": {
+        "zh": "资料原件，按原文中的型号、版本和日期使用。",
+        "en": "Original document; refer to its stated model, revision and date.",
+        "de": "Originalunterlage; Modell, Revision und Datum im Dokument beachten."
+      },
+      "product": "RJ Tech / Steinadler",
+      "language": "",
+      "version": "",
+      "sort_priority": 1
+    },
+    "files/02-certifications/archive-2026-09-16/1.2-battery-dangerous-good-identification-a78ad80f1b.pdf": {
+      "id": "archive-a78ad80f1bd22ad2",
+      "title": {
+        "zh": "电池危险货物鉴定报告",
+        "en": "Battery dangerous goods identification",
+        "de": "Gefahrgutklassifizierung der Batterie"
+      },
+      "description": {
+        "zh": "资料原件，按原文中的型号、版本和日期使用。",
+        "en": "Original document; refer to its stated model, revision and date.",
+        "de": "Originalunterlage; Modell, Revision und Datum im Dokument beachten."
+      },
+      "product": "RJ Tech / Steinadler",
+      "language": "",
+      "version": "",
+      "sort_priority": 1
+    },
+    "files/02-certifications/archive-2026-09-16/1.2-battery-msds_cnen-3963a4c16d.pdf": {
+      "id": "archive-3963a4c16d0487a2",
+      "title": {
+        "zh": "电池 MSDS 安全资料（中英）",
+        "en": "Battery MSDS (Chinese / English)",
+        "de": "Batterie-MSDS (Chinesisch / Englisch)"
+      },
+      "description": {
+        "zh": "资料原件，按原文中的型号、版本和日期使用。",
+        "en": "Original document; refer to its stated model, revision and date.",
+        "de": "Originalunterlage; Modell, Revision und Datum im Dokument beachten."
+      },
+      "product": "RJ Tech / Steinadler",
+      "language": "English / 中文",
+      "version": "",
+      "sort_priority": 1
+    },
+    "files/02-certifications/archive-2026-09-16/1.2-battery-sea-transport-report-d7e3216b47.pdf": {
+      "id": "archive-d7e3216b47599694",
+      "title": {
+        "zh": "电池海运报告",
+        "en": "Battery sea transport report",
+        "de": "Seetransportbericht der Batterie"
+      },
+      "description": {
+        "zh": "资料原件，按原文中的型号、版本和日期使用。",
+        "en": "Original document; refer to its stated model, revision and date.",
+        "de": "Originalunterlage; Modell, Revision und Datum im Dokument beachten."
+      },
+      "product": "RJ Tech / Steinadler",
+      "language": "",
+      "version": "",
+      "sort_priority": 1
+    },
+    "files/02-certifications/archive-2026-09-16/1.2-battery-un38.3-0e9078eddf.pdf": {
+      "id": "archive-0e9078eddf80a32d",
+      "title": {
+        "zh": "电池 UN38.3 测试资料",
+        "en": "Battery UN38.3 test documentation",
+        "de": "UN38.3-Prüfunterlagen der Batterie"
+      },
+      "description": {
+        "zh": "资料原件，按原文中的型号、版本和日期使用。",
+        "en": "Original document; refer to its stated model, revision and date.",
+        "de": "Originalunterlage; Modell, Revision und Datum im Dokument beachten."
+      },
+      "product": "RJ Tech / Steinadler",
+      "language": "",
+      "version": "",
+      "sort_priority": 1
+    },
+    "files/02-certifications/archive-2026-09-16/1.2-ul-2271-report-stl2025s0630769r-s1-82efdeee2a.pdf": {
+      "id": "archive-82efdeee2a3fb107",
+      "title": {
+        "zh": "电池 UL 2271 标准测试报告（STL）",
+        "en": "Battery UL 2271 standard test report (STL)",
+        "de": "Batterie-Prüfbericht nach UL 2271 (STL)"
+      },
+      "description": {
+        "zh": "Shenzhen STL 按 UL 2271 标准出具的测试报告；不是 UL 官方认证证书。",
+        "en": "Test report issued by Shenzhen STL against UL 2271; this is not an official UL certification.",
+        "de": "Prüfbericht von Shenzhen STL nach UL 2271; kein offizielles UL-Zertifikat."
+      },
+      "product": "RJ Tech / Steinadler",
+      "language": "",
+      "version": "",
+      "sort_priority": 1
+    },
+    "files/02-certifications/archive-2026-09-16/1.1-certification_of_vehicle_compliance_l7e-cb3acce1a3.pdf": {
+      "id": "archive-cb3acce1a38e6b81",
+      "title": {
+        "zh": "生产一致性 COP 证书（历史版本）",
+        "en": "COP certificate (historical version)",
+        "de": "COP-Zertifikat (Archivfassung)"
+      },
+      "description": {
+        "zh": "原件载明有效期截至 2026-03-20；这是 COP 历史版本，不用于判断整车型式批准是否有效。",
+        "en": "The document states validity through 2026-03-20. This historical COP document does not determine the validity of the vehicle type approval.",
+        "de": "Laut Original gültig bis 20.03.2026. Diese archivierte COP-Fassung ist keine Aussage zur Gültigkeit der Fahrzeug-Typgenehmigung."
+      },
+      "product": "RJ Tech / Steinadler",
+      "language": "",
+      "version": "",
+      "sort_priority": 3
+    },
+    "files/02-certifications/archive-2026-09-16/1.1-on-street-legal_vehicle_type_approval_granted-5af2530e92.pdf": {
+      "id": "archive-5af2530e928549cc",
+      "title": {
+        "zh": "Steinadler Pro L7e 欧盟整车型式批准文件",
+        "en": "Steinadler Pro L7e EU whole-vehicle type approval",
+        "de": "Steinadler Pro L7e EU-Gesamtfahrzeug-Typgenehmigung"
+      },
+      "description": {
+        "zh": "资料原件，按原文中的型号、版本和日期使用。",
+        "en": "Original document; refer to its stated model, revision and date.",
+        "de": "Originalunterlage; Modell, Revision und Datum im Dokument beachten."
+      },
+      "product": "RJ Tech / Steinadler",
+      "language": "",
+      "version": "",
+      "sort_priority": 1
+    },
+    "files/02-certifications/archive-2026-09-16/1.1-vehicle_approval_test-assessment-d145be6c28.pdf": {
+      "id": "archive-d145be6c2803e15d",
+      "title": {
+        "zh": "制造商初始评估表",
+        "en": "Manufacturer initial assessment form",
+        "de": "Erstbewertungsformular des Herstellers"
+      },
+      "description": {
+        "zh": "原文为 Initial Assessment form（初始评估表），不是车辆性能测试报告。",
+        "en": "The original is an Initial Assessment form, not a vehicle performance test report.",
+        "de": "Das Original ist ein Initial Assessment form, kein Fahrzeug-Leistungsprüfbericht."
+      },
+      "product": "RJ Tech / Steinadler",
+      "language": "",
+      "version": "",
+      "sort_priority": 1
+    },
+    "files/08-testing/archive-2026-09-16/1.4-endurance-testing-summary-a0900de63d.pdf": {
+      "id": "archive-a0900de63d961517",
+      "title": {
+        "zh": "Steinadler 耐久测试总结",
+        "en": "Steinadler endurance testing summary",
+        "de": "Steinadler: Zusammenfassung der Dauertests"
+      },
+      "description": {
+        "zh": "资料原件，按原文中的型号、版本和日期使用。",
+        "en": "Original document; refer to its stated model, revision and date.",
+        "de": "Originalunterlage; Modell, Revision und Datum im Dokument beachten."
+      },
+      "product": "RJ Tech / Steinadler",
+      "language": "",
+      "version": "",
+      "sort_priority": 1
+    },
+    "files/08-testing/archive-2026-09-16/1.9-braking-test-7cfe1ccd28.pdf": {
+      "id": "archive-7cfe1ccd28459957",
+      "title": {
+        "zh": "Steinadler Pro 制动测试",
+        "en": "Steinadler Pro braking test",
+        "de": "Steinadler Pro Bremsprüfung"
+      },
+      "description": {
+        "zh": "资料原件，按原文中的型号、版本和日期使用。",
+        "en": "Original document; refer to its stated model, revision and date.",
+        "de": "Originalunterlage; Modell, Revision und Datum im Dokument beachten."
+      },
+      "product": "RJ Tech / Steinadler",
+      "language": "",
+      "version": "",
+      "sort_priority": 1
+    },
+    "files/02-certifications/archive-2026-09-16/safety-ceritifcate-iso14001-rj-tech-jiangsu-yinguan-5831b9d53c.pdf": {
+      "id": "archive-5831b9d53c258e00",
+      "title": {
+        "zh": "制造商 ISO 14001 证书",
+        "en": "Manufacturer ISO 14001 certificate",
+        "de": "ISO-14001-Zertifikat des Herstellers"
+      },
+      "description": {
+        "zh": "资料原件，按原文中的型号、版本和日期使用。",
+        "en": "Original document; refer to its stated model, revision and date.",
+        "de": "Originalunterlage; Modell, Revision und Datum im Dokument beachten."
+      },
+      "product": "RJ Tech / Steinadler",
+      "language": "",
+      "version": "",
+      "sort_priority": 1
+    },
+    "files/02-certifications/archive-2026-09-16/safety-certificate-iso45001-rj-tech-jiangsu-yinguan-7f8c9ffb5a.pdf": {
+      "id": "archive-7f8c9ffb5adba4f5",
+      "title": {
+        "zh": "制造商 ISO 45001 证书",
+        "en": "Manufacturer ISO 45001 certificate",
+        "de": "ISO-45001-Zertifikat des Herstellers"
+      },
+      "description": {
+        "zh": "资料原件，按原文中的型号、版本和日期使用。",
+        "en": "Original document; refer to its stated model, revision and date.",
+        "de": "Originalunterlage; Modell, Revision und Datum im Dokument beachten."
+      },
+      "product": "RJ Tech / Steinadler",
+      "language": "",
+      "version": "",
+      "sort_priority": 1
+    },
+    "files/02-certifications/archive-2026-09-16/1.3-iso9001-certification-7ac94c1614.pdf": {
+      "id": "archive-7ac94c1614a6db5b",
+      "title": {
+        "zh": "制造商 ISO 9001 证书",
+        "en": "Manufacturer ISO 9001 certificate",
+        "de": "ISO-9001-Zertifikat des Herstellers"
+      },
+      "description": {
+        "zh": "资料原件，按原文中的型号、版本和日期使用。",
+        "en": "Original document; refer to its stated model, revision and date.",
+        "de": "Originalunterlage; Modell, Revision und Datum im Dokument beachten."
+      },
+      "product": "RJ Tech / Steinadler",
+      "language": "",
+      "version": "",
+      "sort_priority": 1
+    },
+    "files/02-certifications/archive-2026-09-16/1.3-world-manufactor-identification-8283c9226b.pdf": {
+      "id": "archive-8283c9226b1d28f6",
+      "title": {
+        "zh": "世界制造商识别代号 WMI 文件",
+        "en": "World Manufacturer Identifier (WMI)",
+        "de": "Welt-Herstellerkennung (WMI)"
+      },
+      "description": {
+        "zh": "资料原件，按原文中的型号、版本和日期使用。",
+        "en": "Original document; refer to its stated model, revision and date.",
+        "de": "Originalunterlage; Modell, Revision und Datum im Dokument beachten."
+      },
+      "product": "RJ Tech / Steinadler",
+      "language": "",
+      "version": "",
+      "sort_priority": 1
+    },
+    "files/01-manuals/archive-2026-09-16/english-steinadler-pro-basic_product-manuals-ce7eba2fb8.pdf": {
+      "id": "archive-ce7eba2fb861becf",
+      "title": {
+        "zh": "Steinadler Pro BASIC 手册（历史副本）",
+        "en": "Steinadler Pro BASIC manual (historical copy)",
+        "de": "Steinadler Pro BASIC Handbuch (Archivkopie)"
+      },
+      "description": {
+        "zh": "44 页历史副本；可见封面为 BASIC，文本层及前言含 L7e-A1 标记。适用车型需核对，未标为最新正式版。",
+        "en": "44-page historical copy. The visible cover says BASIC, while the text layer and foreword include L7e-A1. Verify applicability; not labeled as the current official edition.",
+        "de": "Archivkopie mit 44 Seiten. Sichtbarer Titel: BASIC; Textebene und Vorwort enthalten L7e-A1. Anwendbarkeit prüfen; keine Kennzeichnung als aktuelle offizielle Ausgabe."
+      },
+      "product": "RJ Tech / Steinadler",
+      "language": "English",
+      "version": "",
+      "sort_priority": 3
+    },
+    "files/04-accessories/archive-2026-09-16/how-to-use-ranger-extender-88fb3792ac.pdf": {
+      "id": "archive-88fb3792aceaf05f",
+      "title": {
+        "zh": "增程器使用说明（手册节选）",
+        "en": "Range extender instructions (manual excerpt)",
+        "de": "Anleitung zum Range Extender (Handbuchauszug)"
+      },
+      "description": {
+        "zh": "5 页节选，对应原手册第 50–54 页。文中引用的第 26 页不在此文件中；适配车型及版本未注明。",
+        "en": "Five-page excerpt, original pages 50–54. Referenced page 26 is not included; compatible model and revision are not stated.",
+        "de": "Auszug mit fünf Seiten, Originalseiten 50–54. Die genannte Seite 26 fehlt; Modellzuordnung und Revision sind nicht angegeben."
+      },
+      "product": "RJ Tech / Steinadler",
+      "language": "English",
+      "version": "",
+      "sort_priority": 1
+    },
+    "files/05-specifications/archive-2026-09-16/rjtech-steinadler-family-specifications-1501-v5.0.pdf-b98710e576.pdf": {
+      "id": "archive-b98710e576420458",
+      "title": {
+        "zh": "Steinadler 系列参数（文件名 v5.0，正文 V4.0）",
+        "en": "Steinadler specifications (filename v5.0; content V4.0)",
+        "de": "Steinadler-Daten (Dateiname v5.0; Inhalt V4.0)"
+      },
+      "description": {
+        "zh": "保留原始文件。文件名与正文版本不一致，正文页眉为 V4.0_20251012；不标为最新版。",
+        "en": "Original file retained. Filename and content revisions differ; the header says V4.0_20251012. Not labeled as latest.",
+        "de": "Originaldatei unverändert. Dateiname und Inhaltsversion weichen ab; Kopfzeile V4.0_20251012. Nicht als neueste Fassung gekennzeichnet."
+      },
+      "product": "RJ Tech / Steinadler",
+      "language": "English",
+      "version": "Filename v5.0 / content V4.0_20251012",
+      "sort_priority": 1
+    },
+    "files/05-specifications/archive-2026-09-16/spec_v4.0_20251012-ac747b73dc.pdf": {
+      "id": "archive-ac747b73dce4ccf6",
+      "title": {
+        "zh": "Steinadler 系列参数 V4.0（2025-10-12）",
+        "en": "Steinadler series specifications V4.0 (2025-10-12)",
+        "de": "Steinadler: Technische Daten V4.0 (12.10.2025)"
+      },
+      "description": {
+        "zh": "资料原件，按原文中的型号、版本和日期使用。",
+        "en": "Original document; refer to its stated model, revision and date.",
+        "de": "Originalunterlage; Modell, Revision und Datum im Dokument beachten."
+      },
+      "product": "RJ Tech / Steinadler",
+      "language": "English",
+      "version": "V4.0",
+      "sort_priority": 1
+    },
+    "files/01-manuals/archive-2026-09-16/steialdler-pro-l7e-a1-fd722a41b7.pdf": {
+      "id": "archive-fd722a41b7bd8934",
+      "title": {
+        "zh": "Steinadler Pro L7e-A1 手册（本地历史版本）",
+        "en": "Steinadler Pro L7e-A1 manual (local archive)",
+        "de": "Steinadler Pro L7e-A1 Handbuch (lokale Archivfassung)"
+      },
+      "description": {
+        "zh": "资料原件，按原文中的型号、版本和日期使用。",
+        "en": "Original document; refer to its stated model, revision and date.",
+        "de": "Originalunterlage; Modell, Revision und Datum im Dokument beachten."
+      },
+      "product": "RJ Tech / Steinadler",
+      "language": "English",
+      "version": "",
+      "sort_priority": 3
+    },
+    "files/05-specifications/archive-2026-09-16/steinadler_pro_l7e_doppelsitzer_vs_einzelsitzer_de-d4bebcdd8a.pdf": {
+      "id": "archive-d4bebcdd8a8406b3",
+      "title": {
+        "zh": "Steinadler Pro L7e 单双座对比（德文参考）",
+        "en": "Steinadler Pro L7e seat comparison (German reference)",
+        "de": "Steinadler Pro L7e: Ein- und Doppelsitzer (Referenz)"
+      },
+      "description": {
+        "zh": "资料原件，按原文中的型号、版本和日期使用。",
+        "en": "Original document; refer to its stated model, revision and date.",
+        "de": "Originalunterlage; Modell, Revision und Datum im Dokument beachten."
+      },
+      "product": "RJ Tech / Steinadler",
+      "language": "Deutsch",
+      "version": "",
+      "sort_priority": 1
+    },
+    "files/05-specifications/archive-2026-09-16/steinadler_pro_l7e_double-seat_vs_single-seat_en-7ed083dfe1.pdf": {
+      "id": "archive-7ed083dfe196d627",
+      "title": {
+        "zh": "Steinadler Pro L7e 单双座对比（英文参考）",
+        "en": "Steinadler Pro L7e single- and double-seat comparison",
+        "de": "Steinadler Pro L7e: Sitzvergleich (englische Referenz)"
+      },
+      "description": {
+        "zh": "资料原件，按原文中的型号、版本和日期使用。",
+        "en": "Original document; refer to its stated model, revision and date.",
+        "de": "Originalunterlage; Modell, Revision und Datum im Dokument beachten."
+      },
+      "product": "RJ Tech / Steinadler",
+      "language": "English",
+      "version": "",
+      "sort_priority": 1
     }
   },
   "resources": [
@@ -154,6 +565,160 @@
       "bytes": null,
       "sha256": null,
       "kind": "link"
+    },
+    {
+      "id": "collection-test-videos",
+      "category": "08",
+      "title": {
+        "zh": "耐久与制动测试视频",
+        "en": "Endurance and braking test videos",
+        "de": "Videos zu Dauer- und Bremsprüfungen"
+      },
+      "description": {
+        "zh": "9 份原始文件，内含文件目录与校验值。",
+        "en": "9 original files with a file list and checksums.",
+        "de": "9 Originaldateien mit Dateiliste und Prüfsummen."
+      },
+      "product": "RJ Tech / Steinadler",
+      "language": "",
+      "version": "Archive 2026-09-16",
+      "file": null,
+      "url": "https://github.com/erfinderwx/rj-offroad-library/releases/download/public-library-2026-09-16/RJ-Test-Videos-2026-09-16.zip",
+      "bytes": 19500239,
+      "sha256": "39a27ba32c88f974086764cab934e029bf3a8cd39abe786f13e06d9acf5e8c22",
+      "kind": "file"
+    },
+    {
+      "id": "collection-application-videos",
+      "category": "10",
+      "title": {
+        "zh": "车辆与动力挂车应用视频",
+        "en": "Vehicle and powered trailer application videos",
+        "de": "Anwendungsvideos: Fahrzeug und angetriebener Anhänger"
+      },
+      "description": {
+        "zh": "10 份原始文件，内含文件目录与校验值。",
+        "en": "10 original files with a file list and checksums.",
+        "de": "10 Originaldateien mit Dateiliste und Prüfsummen."
+      },
+      "product": "RJ Tech / Steinadler",
+      "language": "",
+      "version": "Archive 2026-09-16",
+      "file": null,
+      "url": "https://github.com/erfinderwx/rj-offroad-library/releases/download/public-library-2026-09-16/RJ-Application-Videos-2026-09-16.zip",
+      "bytes": 642094612,
+      "sha256": "e330052af07c88fef1e586336a1c57e7e1a71cdc33f5def98b5918f4c6ad5612",
+      "kind": "file"
+    },
+    {
+      "id": "collection-company-images",
+      "category": "10",
+      "title": {
+        "zh": "公司与仓储图片资料包",
+        "en": "Company and warehouse images",
+        "de": "Unternehmens- und Lagerbilder"
+      },
+      "description": {
+        "zh": "7 份原始文件，内含文件目录与校验值。",
+        "en": "7 original files with a file list and checksums.",
+        "de": "7 Originaldateien mit Dateiliste und Prüfsummen."
+      },
+      "product": "RJ Tech / Steinadler",
+      "language": "",
+      "version": "Archive 2026-09-16",
+      "file": null,
+      "url": "https://github.com/erfinderwx/rj-offroad-library/releases/download/public-library-2026-09-16/RJ-Company-Images-2026-09-16.zip",
+      "bytes": 2380307,
+      "sha256": "c56df8974261ac78e3bf3f3e78d938aae1d624d4618462adf0f70a44a020f913",
+      "kind": "file"
+    },
+    {
+      "id": "collection-company-presentation",
+      "category": "10",
+      "title": {
+        "zh": "RJ Tech 公司介绍",
+        "en": "RJ Tech company presentation",
+        "de": "RJ Tech Unternehmenspräsentation"
+      },
+      "description": {
+        "zh": "1 份原始文件，内含文件目录与校验值。",
+        "en": "1 original files with a file list and checksums.",
+        "de": "1 Originaldateien mit Dateiliste und Prüfsummen."
+      },
+      "product": "RJ Tech / Steinadler",
+      "language": "",
+      "version": "Archive 2026-09-16",
+      "file": null,
+      "url": "https://github.com/erfinderwx/rj-offroad-library/releases/download/public-library-2026-09-16/RJ-Company-Presentation-2026-09-16.zip",
+      "bytes": 247505767,
+      "sha256": "ea73dabf89789fdcb41947026aab0f0dec84fed76d565a7f3653392aef9ce40c",
+      "kind": "file"
+    },
+    {
+      "id": "collection-product-images",
+      "category": "10",
+      "title": {
+        "zh": "产品图片资料包",
+        "en": "Product image collection",
+        "de": "Produktbilder-Sammlung"
+      },
+      "description": {
+        "zh": "57 份原始文件，内含文件目录与校验值。",
+        "en": "57 original files with a file list and checksums.",
+        "de": "57 Originaldateien mit Dateiliste und Prüfsummen."
+      },
+      "product": "RJ Tech / Steinadler",
+      "language": "",
+      "version": "Archive 2026-09-16",
+      "file": null,
+      "url": "https://github.com/erfinderwx/rj-offroad-library/releases/download/public-library-2026-09-16/RJ-Product-Images-2026-09-16.zip",
+      "bytes": 216296730,
+      "sha256": "025da26cb4668ed9db6a021e6837765b6dd18639d0c729a63d185aa37021afc8",
+      "kind": "file"
+    },
+    {
+      "id": "marketing-archive-0",
+      "category": "10",
+      "title": {
+        "zh": "历史产品宣传册（2024）",
+        "en": "Historical product brochures (2024)",
+        "de": "Historische Produktbroschüren (2024)"
+      },
+      "description": {
+        "zh": "历史素材，非现行报价。保留原始 PDF 的日期、价格、规格、活动时间与 Coming Soon 等历史内容；当前型号、配置、价格及售后条件以现行正式文件为准。",
+        "en": "Historical materials, not a current quotation. Original PDF dates, prices, specifications, event information and Coming Soon notices are preserved. Refer to current official documents for available models, configurations, prices and after-sales terms.",
+        "de": "Historische Unterlagen, kein aktuelles Angebot. Ursprüngliche Daten, Preise, Spezifikationen, Veranstaltungsangaben und Coming-Soon-Hinweise bleiben erhalten. Für aktuelle Modelle, Ausstattungen, Preise und Servicebedingungen gelten die aktuellen offiziellen Unterlagen."
+      },
+      "product": "RJ Tech / Steinadler",
+      "language": "",
+      "version": "2024",
+      "file": null,
+      "url": "https://github.com/erfinderwx/rj-offroad-library/releases/download/public-library-2026-09-16/rj-tech-historical-brochures-2024.zip",
+      "bytes": 46364717,
+      "sha256": "981e9965a095d77387a622683b40e630d9b999968adac52a902e876ed566c629",
+      "kind": "file"
+    },
+    {
+      "id": "marketing-archive-1",
+      "category": "10",
+      "title": {
+        "zh": "SVEA 历史展会海报（2025）",
+        "en": "SVEA historical event posters (2025)",
+        "de": "Historische SVEA-Messeplakate (2025)"
+      },
+      "description": {
+        "zh": "历史素材，非现行报价。保留原始 PDF 的日期、价格、规格、活动时间与 Coming Soon 等历史内容；当前型号、配置、价格及售后条件以现行正式文件为准。",
+        "en": "Historical materials, not a current quotation. Original PDF dates, prices, specifications, event information and Coming Soon notices are preserved. Refer to current official documents for available models, configurations, prices and after-sales terms.",
+        "de": "Historische Unterlagen, kein aktuelles Angebot. Ursprüngliche Daten, Preise, Spezifikationen, Veranstaltungsangaben und Coming-Soon-Hinweise bleiben erhalten. Für aktuelle Modelle, Ausstattungen, Preise und Servicebedingungen gelten die aktuellen offiziellen Unterlagen."
+      },
+      "product": "RJ Tech / Steinadler",
+      "language": "",
+      "version": "2025",
+      "file": null,
+      "url": "https://github.com/erfinderwx/rj-offroad-library/releases/download/public-library-2026-09-16/rj-tech-svea-event-posters-2025.zip",
+      "bytes": 7190111,
+      "sha256": "bb00eea4964136716face076852e704104d2dcc1c62179077ccda43c644b8d96",
+      "kind": "file"
     }
   ]
 }
