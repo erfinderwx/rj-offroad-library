@@ -1,0 +1,39 @@
+[
+  {
+    "file": "files/01-manuals/steinadler-pro-offroad/2026-09-source/steinadler-pro-offroad-manual-en.pdf",
+    "source_page": "https://www.rjtech-offroad.com/en/Steinadler",
+    "source_url": "https://www.rjtech-offroad.com/Upfile/File/2025-01-08/dc2e91e9-82e9-4e27-8a54-6ff44fc0dce1..pdf",
+    "retrieved": "2026-09-16",
+    "sha256": "91685a83413f963c9350daa6102c4d3a84608725177ac04136b14aa762c4ff2b",
+    "bytes": 2467772,
+    "original_unchanged": true
+  },
+  {
+    "file": "files/01-manuals/steinadler-pro-l7e/2026-09-source/steinadler-pro-l7e-a1-manual-en.pdf",
+    "source_page": "https://www.rjtech-offroad.com/en/L7e_A1",
+    "source_url": "https://www.rjtech-offroad.com/Upfile/File/2026-03-21/dae7d4f2-f96c-48d7-ad10-0c89f62b63e0..pdf",
+    "retrieved": "2026-09-16",
+    "sha256": "e1f9b65dc6acbba4ad373c4092b4d9a2844a307a08fa1c13ae8c2baef55714bc",
+    "bytes": 1737359,
+    "original_unchanged": true
+  },
+  {
+    "file": "files/09-after-sales/terms/v1.0-20240805/rj-tech-aftersales-terms-en-v1.0-20240805.pdf",
+    "source_page": "https://www.rjtech-offroad.com/en/L7e_A1",
+    "source_url": "https://www.rjtech-offroad.com/Upfile/File/2025-12-26/18eaa6fe-13ab-46b9-aa7c-9f37ab658144..pdf",
+    "retrieved": "2026-09-16",
+    "sha256": "06aba2b847b36125b9e966ca3c721ee05e5cb0bd73f74e55ca2ddfb8714ad411",
+    "bytes": 153020,
+    "original_unchanged": true
+  },
+  {
+    "id": "battery-media-pack",
+    "source_page": "https://xw-tech.de/rj/",
+    "source_repository": "https://github.com/erfinderwx/xw-tech/tree/main/rj",
+    "source_tree_sha": "5d18adc0fdc1c9c639a1bf2dcb63df3f77e20564",
+    "packaged": "2026-09-16",
+    "sha256": "c406de8afaceee0632fbe92d6c9c7f8babfc7dc2ded583bc0cb3f4850c747545",
+    "bytes": 76605440,
+    "original_media_unchanged": true
+  }
+]

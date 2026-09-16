@@ -1,0 +1,181 @@
+{
+  "updated": "2026-09-16",
+  "categories": [
+    {
+      "id": "01",
+      "title": {
+        "zh": "操作说明与用户手册",
+        "en": "User manuals",
+        "de": "Bedienungsanleitungen"
+      }
+    },
+    {
+      "id": "02",
+      "title": {
+        "zh": "认证与检测文件",
+        "en": "Certificates and reports",
+        "de": "Zertifikate und Prüfberichte"
+      }
+    },
+    {
+      "id": "03",
+      "title": {
+        "zh": "改装、维修与保养",
+        "en": "Maintenance and modifications",
+        "de": "Wartung und Umbau"
+      }
+    },
+    {
+      "id": "04",
+      "title": {
+        "zh": "配件使用与安装",
+        "en": "Accessory guides",
+        "de": "Zubehöranleitungen"
+      }
+    },
+    {
+      "id": "05",
+      "title": {
+        "zh": "产品规格与配置",
+        "en": "Specifications and configurations",
+        "de": "Technische Daten und Konfigurationen"
+      }
+    },
+    {
+      "id": "06",
+      "title": {
+        "zh": "开发接口与软件",
+        "en": "Developer resources",
+        "de": "Entwicklerressourcen"
+      }
+    },
+    {
+      "id": "07",
+      "title": {
+        "zh": "CAD、图纸与模型",
+        "en": "CAD, drawings and models",
+        "de": "CAD, Zeichnungen und Modelle"
+      }
+    },
+    {
+      "id": "08",
+      "title": {
+        "zh": "测试、验收与质量",
+        "en": "Testing and quality",
+        "de": "Prüfung und Qualität"
+      }
+    },
+    {
+      "id": "09",
+      "title": {
+        "zh": "售后服务与常见问题",
+        "en": "After-sales and FAQ",
+        "de": "Kundendienst und FAQ"
+      }
+    },
+    {
+      "id": "10",
+      "title": {
+        "zh": "培训、图片与视频",
+        "en": "Training and media",
+        "de": "Schulung und Medien"
+      }
+    }
+  ],
+  "files": {
+    "files/01-manuals/steinadler-pro-offroad/2026-09-source/steinadler-pro-offroad-manual-en.pdf": {
+      "id": "official-offroad",
+      "title": {
+        "zh": "Steinadler Pro Offroad 使用手册",
+        "en": "Steinadler Pro Offroad user manual",
+        "de": "Steinadler Pro Offroad Bedienungsanleitung"
+      },
+      "description": {
+        "zh": "官网 Offroad 产品页提供的英文原件，40页。文件未标修订号，适用信息见原文。",
+        "en": "English original from the official Offroad product page, 40 pages. No revision number is stated; refer to the original for applicability.",
+        "de": "Englisches Original von der offiziellen Offroad-Produktseite, 40 Seiten. Ohne ausgewiesene Revisionsnummer; den Anwendungsbereich entnehmen Sie dem Original."
+      },
+      "product": "Steinadler Pro Offroad",
+      "language": "English",
+      "version": ""
+    },
+    "files/01-manuals/steinadler-pro-l7e/2026-09-source/steinadler-pro-l7e-a1-manual-en.pdf": {
+      "id": "official-l7e",
+      "title": {
+        "zh": "Steinadler Pro L7e-A1 使用手册",
+        "en": "Steinadler Pro L7e-A1 user manual",
+        "de": "Steinadler Pro L7e-A1 Bedienungsanleitung"
+      },
+      "description": {
+        "zh": "官网 L7e-A1 产品页提供的英文原件，44页。文件未标修订号，适用信息见原文。",
+        "en": "English original from the official L7e-A1 product page, 44 pages. No revision number is stated; refer to the original for applicability.",
+        "de": "Englisches Original von der offiziellen L7e-A1-Produktseite, 44 Seiten. Ohne ausgewiesene Revisionsnummer; den Anwendungsbereich entnehmen Sie dem Original."
+      },
+      "product": "Steinadler Pro L7e-A1",
+      "language": "English",
+      "version": ""
+    },
+    "files/09-after-sales/terms/v1.0-20240805/rj-tech-aftersales-terms-en-v1.0-20240805.pdf": {
+      "id": "official-warranty",
+      "title": {
+        "zh": "RJ Tech 售后条款",
+        "en": "RJ Tech after-sales terms",
+        "de": "RJ Tech Kundendienstbedingungen"
+      },
+      "description": {
+        "zh": "官网提供的英文售后条款原件，8页。保留原文版本 V1.0_20240805，具体范围和条件见文件。",
+        "en": "Official English after-sales terms, 8 pages. Original version V1.0_20240805; see the document for scope and conditions.",
+        "de": "Offizielle englische Kundendienstbedingungen, 8 Seiten. Originalversion V1.0_20240805; Umfang und Bedingungen sind im Dokument beschrieben."
+      },
+      "product": "RJ Tech",
+      "language": "English",
+      "version": "V1.0_20240805"
+    }
+  },
+  "resources": [
+    {
+      "id": "battery-media-pack",
+      "category": "03",
+      "title": {
+        "zh": "电池更换视频与字幕资料包",
+        "en": "Battery replacement videos and subtitles",
+        "de": "Videos und Untertitel zum Batteriewechsel"
+      },
+      "description": {
+        "zh": "7段已发布视频及对应中英字幕，ZIP打包下载。操作说明请查看电池更换在线指南。",
+        "en": "Seven published videos with matching Chinese-English subtitles in one ZIP. Refer to the online battery replacement guide for instructions.",
+        "de": "Sieben veröffentlichte Videos mit chinesisch-englischen Untertiteln als ZIP. Die Anleitung finden Sie im Online-Leitfaden zum Batteriewechsel."
+      },
+      "product": "RJ Tech",
+      "language": "English / 中文",
+      "version": "Media pack 2026-09-16",
+      "file": null,
+      "url": "https://github.com/erfinderwx/rj-offroad-library/releases/download/initial-library-2026-09-16/RJ-Battery-Replacement-Videos-2026-09-16.zip",
+      "bytes": 76605440,
+      "sha256": "c406de8afaceee0632fbe92d6c9c7f8babfc7dc2ded583bc0cb3f4850c747545",
+      "kind": "file"
+    },
+    {
+      "id": "battery-online-guide",
+      "category": "03",
+      "title": {
+        "zh": "电池更换与线束安装在线指南",
+        "en": "Battery replacement and wiring guide",
+        "de": "Online-Anleitung zum Batteriewechsel und zur Verkabelung"
+      },
+      "description": {
+        "zh": "已有的七步图文和视频指南。网页正文为英文，视频配有中英字幕。",
+        "en": "Existing seven-step guide with illustrations and videos. English text with Chinese-English video subtitles.",
+        "de": "Bestehende Anleitung in sieben Schritten mit Bildern und Videos. Englischer Text mit chinesisch-englischen Videountertiteln."
+      },
+      "product": "RJ Tech",
+      "language": "English / 中文",
+      "version": "",
+      "file": null,
+      "url": "https://xw-tech.de/rj/",
+      "bytes": null,
+      "sha256": null,
+      "kind": "link"
+    }
+  ]
+}

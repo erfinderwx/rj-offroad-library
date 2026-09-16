@@ -1,0 +1,3 @@
+# 产品规格与配置 / Specifications and configurations
+
+按产品、配置、语言和版本整理对客文件。客户下载入口由资料目录自动生成。
