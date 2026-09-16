@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex,nofollow,noarchive,nosnippet">
+  <meta name="googlebot" content="noindex,nofollow,noarchive,nosnippet">
+  <meta name="referrer" content="no-referrer">
+  <meta name="color-scheme" content="light">
+  <meta name="description" content="RJ Offroad 产品手册、技术资料与使用指南。">
+  <title>RJ Offroad · 资料中心</title>
+  <link rel="stylesheet" href="./assets/style.css">
+  <script src="./assets/app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#documents" data-i18n="skip">跳至资料列表</a>
+  <div class="page-shell">
+    <header class="topbar">
+      <div class="brand" aria-label="RJ Tech Offroad"><span class="brand-mark" aria-hidden="true">RJ</span><span class="brand-name">RJ TECH<span>OFFROAD</span></span></div>
+      <div class="language-switch" role="group" aria-label="语言 / Language / Sprache">
+        <button type="button" data-language="zh" lang="zh-CN" aria-pressed="true">中文</button>
+        <button type="button" data-language="en" lang="en" aria-pressed="false">EN</button>
+        <button type="button" data-language="de" lang="de" aria-pressed="false">DE</button>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero" aria-labelledby="page-title">
+        <p class="eyebrow" data-i18n="eyebrow">产品支持</p>
+        <h1 id="page-title" data-i18n="heading">资料中心</h1>
+        <p class="hero-description" data-i18n="intro">查找产品手册、技术资料与使用指南，在线预览或下载保存。</p>
+      </section>
+
+      <section class="library" aria-labelledby="library-heading">
+        <div class="library-toolbar">
+          <div><h2 id="library-heading" data-i18n="library">产品资料</h2><p id="collection-count" class="collection-count"></p></div>
+          <div class="search-field">
+            <label for="search" class="sr-only" data-i18n="searchLabel">搜索资料</label>
+            <svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m15.5 15.5 5 5"></path></svg>
+            <input id="search" type="search" autocomplete="off" placeholder="搜索名称、产品或版本" data-i18n-placeholder="searchPlaceholder">
+          </div>
+        </div>
+        <nav id="category-filter" class="category-filter" aria-label="资料分类"></nav>
+        <div class="result-line"><p id="result-count" role="status" aria-live="polite"></p><button id="clear-filters" class="text-button" type="button" hidden data-i18n="clearFilters">清除筛选</button></div>
+        <div id="documents" class="documents" aria-busy="true" tabindex="-1"></div>
+        <div id="state-panel" class="state-panel" role="status" aria-live="polite"><span class="loading-dot" aria-hidden="true"></span><p data-i18n="loading">正在加载资料…</p></div>
+        <noscript><p class="noscript">请启用 JavaScript 以查看资料。 / Please enable JavaScript to view the documents. / Bitte aktivieren Sie JavaScript, um die Dokumente anzuzeigen.</p></noscript>
+      </section>
+    </main>
+
+    <footer class="footer"><p>RJ TECH · OFFROAD</p><p id="updated"></p></footer>
+  </div>
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+</body>
+</html>
