@@ -584,9 +584,9 @@
         "de": "Offizielle Kundendienstbedingungen (Quelle von 2024)"
       },
       "description": {
-        "zh": "中文站公开链接的英文原件，8 页。与另一份售后条款同标 V1.0_20240805，但文件及提取文字不同；保留来源，不标为现行版。",
-        "en": "Eight-page English original linked by the Chinese site. It shares revision V1.0_20240805 with the other terms file but has different bytes and extracted text. Retained as a source archive, not labeled current.",
-        "de": "Achtseitiges englisches Original der chinesischen Website. Gleiche Kennung V1.0_20240805 wie die andere Datei, aber abweichende Datei und Textausgabe. Quellenarchiv, nicht als aktuell gekennzeichnet."
+        "zh": "中文官网链接的 8 页英文历史原件，与另一份售后条款使用相同版本号。按来源单独保留，不标为现行版。",
+        "en": "Eight-page English historical original linked by the Chinese website, sharing the revision label of the other terms file. Retained by source; not labeled current.",
+        "de": "Achtseitiges englisches Archivoriginal der chinesischen Website mit derselben Versionskennung wie die andere Datei. Nach Quelle separat archiviert; nicht als aktuell gekennzeichnet."
       },
       "product": "RJ Tech / Steinadler",
       "language": "English",
@@ -857,6 +857,28 @@
       "url": "https://github.com/erfinderwx/rj-offroad-library/releases/download/public-library-2026-09-16/rj-tech-historical-render-images-2025.zip",
       "bytes": 95598981,
       "sha256": "2ebd3fdca04832ffe06901b74cf0e5d7e42ab8d48e82a192f7b1b47e7e6b8bf8",
+      "kind": "file"
+    },
+    {
+      "id": "historical-render-images-additional",
+      "category": "10",
+      "title": {
+        "zh": "历史产品与配件渲染图集（补充成品）",
+        "en": "Historical product and accessory renders (additional originals)",
+        "de": "Historische Produkt- und Zubehörbilder (weitere Originale)"
+      },
+      "description": {
+        "zh": "115 张历史整车、移动平台及配件成品图。用于外观展示，不代表当前量产配置、技术参数或报价。",
+        "en": "115 historical presentation images of vehicles, mobile platforms and accessories. For visual reference; not current production specifications or pricing.",
+        "de": "115 historische Präsentationsbilder von Fahrzeugen, mobilen Plattformen und Zubehör. Zur Ansicht, nicht als aktuelle Serienspezifikation oder Preisangabe."
+      },
+      "product": "RJ Tech / Steinadler",
+      "language": "",
+      "version": "Historical archive",
+      "file": null,
+      "url": "https://github.com/erfinderwx/rj-offroad-library/releases/download/public-library-2026-09-16/rj-tech-historical-render-images-additional.zip",
+      "bytes": 990239418,
+      "sha256": "20c808fbdc2f7d7a5a102b1d26e131513d3d4b5e2c922d571e2f7129044ad1f5",
       "kind": "file"
     }
   ]
