@@ -25,15 +25,5 @@
     "sha256": "06aba2b847b36125b9e966ca3c721ee05e5cb0bd73f74e55ca2ddfb8714ad411",
     "bytes": 153020,
     "original_unchanged": true
-  },
-  {
-    "id": "battery-media-pack",
-    "source_page": "https://xw-tech.de/rj/",
-    "source_repository": "https://github.com/erfinderwx/xw-tech/tree/main/rj",
-    "source_tree_sha": "5d18adc0fdc1c9c639a1bf2dcb63df3f77e20564",
-    "packaged": "2026-09-16",
-    "sha256": "c406de8afaceee0632fbe92d6c9c7f8babfc7dc2ded583bc0cb3f4850c747545",
-    "bytes": 76605440,
-    "original_media_unchanged": true
   }
 ]
