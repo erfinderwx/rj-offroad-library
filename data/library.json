@@ -541,6 +541,57 @@
       "language": "English",
       "version": "",
       "sort_priority": 1
+    },
+    "files/10-media-training/official-documents/distributor-policy-website-archive.pdf": {
+      "id": "official-869fe3e2ef825657",
+      "title": {
+        "zh": "官网经销商政策（存档）",
+        "en": "Official website distributor policy (archive)",
+        "de": "Vertriebspartner-Richtlinien der Website (Archiv)"
+      },
+      "description": {
+        "zh": "官网公开链接的政策原件，2 页。包含价格与经销条款，按原文时期理解，非当前报价。",
+        "en": "Two-page policy publicly linked on the official site. Prices and distributor terms are historical reference, not a current quotation.",
+        "de": "Zweiseitige, öffentlich verlinkte Richtlinien. Preise und Händlerbedingungen dienen als historische Referenz, nicht als aktuelles Angebot."
+      },
+      "product": "RJ Tech / Steinadler",
+      "language": "English",
+      "version": "Website archive 2026-09-16",
+      "sort_priority": 2
+    },
+    "files/05-specifications/official-archive/steinadler-pro-specifications-v1.0-20240805.pdf": {
+      "id": "official-282c74ea01688a80",
+      "title": {
+        "zh": "Steinadler Pro 参数 V1.0（2024-08-05）",
+        "en": "Steinadler Pro specifications V1.0 (2024-08-05)",
+        "de": "Steinadler Pro: Technische Daten V1.0 (05.08.2024)"
+      },
+      "description": {
+        "zh": "官网公开提供的历史参数原件，2 页；按原文版本和配置使用。",
+        "en": "Historical specifications offered by the official site, 2 pages. Refer to the original revision and configuration.",
+        "de": "Historische Daten von der offiziellen Website, 2 Seiten. Originalrevision und Ausstattung beachten."
+      },
+      "product": "RJ Tech / Steinadler",
+      "language": "English",
+      "version": "V1.0_20240805",
+      "sort_priority": 2
+    },
+    "files/09-after-sales/terms/website-2024-archive/rj-aftersales-terms-v1.0-20240805-2024-source.pdf": {
+      "id": "official-2c258e4fcb34258c",
+      "title": {
+        "zh": "官网售后条款（2024 链接存档）",
+        "en": "Official after-sales terms (2024 source archive)",
+        "de": "Offizielle Kundendienstbedingungen (Quelle von 2024)"
+      },
+      "description": {
+        "zh": "中文站公开链接的英文原件，8 页。与另一份售后条款同标 V1.0_20240805，但文件及提取文字不同；保留来源，不标为现行版。",
+        "en": "Eight-page English original linked by the Chinese site. It shares revision V1.0_20240805 with the other terms file but has different bytes and extracted text. Retained as a source archive, not labeled current.",
+        "de": "Achtseitiges englisches Original der chinesischen Website. Gleiche Kennung V1.0_20240805 wie die andere Datei, aber abweichende Datei und Textausgabe. Quellenarchiv, nicht als aktuell gekennzeichnet."
+      },
+      "product": "RJ Tech / Steinadler",
+      "language": "English",
+      "version": "V1.0_20240805 / 2024 source",
+      "sort_priority": 2
     }
   },
   "resources": [
@@ -718,6 +769,94 @@
       "url": "https://github.com/erfinderwx/rj-offroad-library/releases/download/public-library-2026-09-16/rj-tech-svea-event-posters-2025.zip",
       "bytes": 7190111,
       "sha256": "bb00eea4964136716face076852e704104d2dcc1c62179077ccda43c644b8d96",
+      "kind": "file"
+    },
+    {
+      "id": "official-collection-product_image",
+      "category": "10",
+      "title": {
+        "zh": "官网产品图片资料包",
+        "en": "Official website product images",
+        "de": "Produktbilder der offiziellen Website"
+      },
+      "description": {
+        "zh": "官网公开素材，去重后 223 个文件。原件及来源清单打包下载。",
+        "en": "223 deduplicated public website files, with original media and source list.",
+        "de": "223 deduplizierte öffentliche Webdateien mit Originalmedien und Quellenliste."
+      },
+      "product": "RJ Tech Offroad",
+      "language": "",
+      "version": "Website archive 2026-09-16",
+      "file": null,
+      "url": "https://github.com/erfinderwx/rj-offroad-library/releases/download/public-library-2026-09-16/RJ-Website-Product-Images-2026-09-16.zip",
+      "bytes": 137885475,
+      "sha256": "48528b6738429ec44ea43f8c4f83aeff330baa1240f994603f1dbff3d545d6ed",
+      "kind": "file"
+    },
+    {
+      "id": "official-collection-video",
+      "category": "10",
+      "title": {
+        "zh": "官网产品演示视频",
+        "en": "Official website demonstration videos",
+        "de": "Produktvideos der offiziellen Website"
+      },
+      "description": {
+        "zh": "官网公开素材，去重后 26 个文件。原件及来源清单打包下载。",
+        "en": "26 deduplicated public website files, with original media and source list.",
+        "de": "26 deduplizierte öffentliche Webdateien mit Originalmedien und Quellenliste."
+      },
+      "product": "RJ Tech Offroad",
+      "language": "",
+      "version": "Website archive 2026-09-16",
+      "file": null,
+      "url": "https://github.com/erfinderwx/rj-offroad-library/releases/download/public-library-2026-09-16/RJ-Website-Videos-2026-09-16.zip",
+      "bytes": 471502818,
+      "sha256": "af2c5ee9fd414c336d2ae5f2864bd98e7a5ddc3f91134bd47bf97f37de701150",
+      "kind": "file"
+    },
+    {
+      "id": "official-collection-animation_frame",
+      "category": "10",
+      "title": {
+        "zh": "官网 360° 产品展示图片",
+        "en": "Official website 360° product images",
+        "de": "360°-Produktbilder der offiziellen Website"
+      },
+      "description": {
+        "zh": "官网公开素材，去重后 373 个文件。原件及来源清单打包下载。",
+        "en": "373 deduplicated public website files, with original media and source list.",
+        "de": "373 deduplizierte öffentliche Webdateien mit Originalmedien und Quellenliste."
+      },
+      "product": "RJ Tech Offroad",
+      "language": "",
+      "version": "Website archive 2026-09-16",
+      "file": null,
+      "url": "https://github.com/erfinderwx/rj-offroad-library/releases/download/public-library-2026-09-16/RJ-Website-360-Images-2026-09-16.zip",
+      "bytes": 215216495,
+      "sha256": "c2b6c5858f258426c6d1f52e9be1d629949806059441f28005c0df760a6e1bb6",
+      "kind": "file"
+    },
+    {
+      "id": "historical-render-images",
+      "category": "10",
+      "title": {
+        "zh": "补充产品渲染图片（2025 历史素材）",
+        "en": "Additional product render images (2025 archive)",
+        "de": "Weitere Produkt-Renderbilder (Archiv 2025)"
+      },
+      "description": {
+        "zh": "历史产品渲染素材（2025），非现行报价或技术规格。仅包含既有成品图片，按 SHA256 与现有公开资料及本包内容去重；原始图片字节未改动。车型外观和配置可能属于历史版本，当前配置以现行正式资料为准。",
+        "en": "Historical product renderings (2025), not a current quotation or technical specification. Finished image files only, deduplicated by SHA256 against existing public materials and within this archive. Original image bytes are unchanged. Appearance and equipment may reflect historical versions; consult current official documentation for current configurations.",
+        "de": "Historische Produktrenderings (2025), kein aktuelles Angebot und keine aktuelle technische Spezifikation. Nur fertige Bilddateien; Duplikate gegenüber den vorhandenen öffentlichen Unterlagen und innerhalb dieses Archivs wurden anhand von SHA256 entfernt. Die Originalbilddaten bleiben unverändert. Abbildungen und Ausstattung können historische Versionen zeigen; maßgeblich sind die aktuellen offiziellen Unterlagen."
+      },
+      "product": "RJ Tech / Steinadler",
+      "language": "",
+      "version": "2025",
+      "file": null,
+      "url": "https://github.com/erfinderwx/rj-offroad-library/releases/download/public-library-2026-09-16/rj-tech-historical-render-images-2025.zip",
+      "bytes": 95598981,
+      "sha256": "2ebd3fdca04832ffe06901b74cf0e5d7e42ab8d48e82a192f7b1b47e7e6b8bf8",
       "kind": "file"
     }
   ]
