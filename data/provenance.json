@@ -25,5 +25,774 @@
     "sha256": "06aba2b847b36125b9e966ca3c721ee05e5cb0bd73f74e55ca2ddfb8714ad411",
     "bytes": 153020,
     "original_unchanged": true
+  },
+  {
+    "file": "files/02-certifications/archive-2026-09-16/1.2-battery-air-transport-report-3e72b37c5a.pdf",
+    "original_filename": "1.2 Battery Air Transport Report.pdf",
+    "source_type": "RJ customer material archive",
+    "retrieved": "2026-09-16",
+    "sha256": "3e72b37c5a03c31a6f0a0e6c372d7b92b268fd41f579cfcc686e48d798c47888",
+    "bytes": 2911454,
+    "original_unchanged": true
+  },
+  {
+    "file": "files/02-certifications/archive-2026-09-16/1.2-battery-ce-emc1-b3c6ce4c91.pdf",
+    "original_filename": "1.2 Battery CE-EMC1.pdf",
+    "source_type": "RJ customer material archive",
+    "retrieved": "2026-09-16",
+    "sha256": "b3c6ce4c913cfd48eff2d6a4cf257579518e3ec9f2caa336b64e02e088783615",
+    "bytes": 296436,
+    "original_unchanged": true
+  },
+  {
+    "file": "files/02-certifications/archive-2026-09-16/1.2-battery-ce-emc2-d64dca8967.pdf",
+    "original_filename": "1.2 Battery CE-EMC2.pdf",
+    "source_type": "RJ customer material archive",
+    "retrieved": "2026-09-16",
+    "sha256": "d64dca8967b6c66abdeaeac3bbad5fc818b979494e3729dcb8b55d1ef3294ba3",
+    "bytes": 2431430,
+    "original_unchanged": true
+  },
+  {
+    "file": "files/02-certifications/archive-2026-09-16/1.2-battery-dangerous-good-identification-a78ad80f1b.pdf",
+    "original_filename": "1.2 Battery Dangerous Good Identification.pdf",
+    "source_type": "RJ customer material archive",
+    "retrieved": "2026-09-16",
+    "sha256": "a78ad80f1bd22ad203d41c1c7cb0f5e6518ba32ecf7f8b92e577125968a80dc8",
+    "bytes": 1038425,
+    "original_unchanged": true
+  },
+  {
+    "file": "files/02-certifications/archive-2026-09-16/1.2-battery-msds_cnen-3963a4c16d.pdf",
+    "original_filename": "1.2 Battery MSDS_CNEN.pdf",
+    "source_type": "RJ customer material archive",
+    "retrieved": "2026-09-16",
+    "sha256": "3963a4c16d0487a2ff649b4ecd305994981045310c8fdc65c479d56da8fc530a",
+    "bytes": 457771,
+    "original_unchanged": true
+  },
+  {
+    "file": "files/02-certifications/archive-2026-09-16/1.2-battery-sea-transport-report-d7e3216b47.pdf",
+    "original_filename": "1.2 Battery Sea Transport Report.pdf",
+    "source_type": "RJ customer material archive",
+    "retrieved": "2026-09-16",
+    "sha256": "d7e3216b47599694d41f1ae3ec8ce3702a3426fed654633d5cf810dbe440e489",
+    "bytes": 958264,
+    "original_unchanged": true
+  },
+  {
+    "file": "files/02-certifications/archive-2026-09-16/1.2-battery-un38.3-0e9078eddf.pdf",
+    "original_filename": "1.2 Battery UN38.3.pdf",
+    "source_type": "RJ customer material archive",
+    "retrieved": "2026-09-16",
+    "sha256": "0e9078eddf80a32d5720ff3aa49b24049af4ac517a1912f0a509b915512ace36",
+    "bytes": 1195911,
+    "original_unchanged": true
+  },
+  {
+    "file": "files/02-certifications/archive-2026-09-16/1.2-ul-2271-report-stl2025s0630769r-s1-82efdeee2a.pdf",
+    "original_filename": "1.2 UL 2271-Report STL2025S0630769R-S1.pdf",
+    "source_type": "RJ customer material archive",
+    "retrieved": "2026-09-16",
+    "sha256": "82efdeee2a3fb1070b98dfc226e21bbe8c3b6a76a0e15b5f6b16cca8ad5eba54",
+    "bytes": 2241244,
+    "original_unchanged": true
+  },
+  {
+    "file": "files/02-certifications/archive-2026-09-16/1.1-certification_of_vehicle_compliance_l7e-cb3acce1a3.pdf",
+    "original_filename": "1.1 Certification_of_Vehicle_Compliance_L7e.pdf",
+    "source_type": "RJ customer material archive",
+    "retrieved": "2026-09-16",
+    "sha256": "cb3acce1a38e6b8194a4eb365edae3825bec8d7f38499f3fdd0147911ee0ee59",
+    "bytes": 53188,
+    "original_unchanged": true
+  },
+  {
+    "file": "files/02-certifications/archive-2026-09-16/1.1-on-street-legal_vehicle_type_approval_granted-5af2530e92.pdf",
+    "original_filename": "1.1 on-street-legal_vehicle_type_approval_granted.pdf",
+    "source_type": "RJ customer material archive",
+    "retrieved": "2026-09-16",
+    "sha256": "5af2530e928549cc97e8b6b20b774d830890fe46483cc2223b5effb0e324c534",
+    "bytes": 9951981,
+    "original_unchanged": true
+  },
+  {
+    "file": "files/02-certifications/archive-2026-09-16/1.1-vehicle_approval_test-assessment-d145be6c28.pdf",
+    "original_filename": "1.1 vehicle_approval_test&assessment.pdf",
+    "source_type": "RJ customer material archive",
+    "retrieved": "2026-09-16",
+    "sha256": "d145be6c2803e15d1108bf7eae883f4a5a4b27c9adca5b603faf281d77202eef",
+    "bytes": 376909,
+    "original_unchanged": true
+  },
+  {
+    "file": "files/08-testing/archive-2026-09-16/1.4-endurance-testing-summary-a0900de63d.pdf",
+    "original_filename": "1.4 Endurance Testing Summary.pdf",
+    "source_type": "RJ customer material archive",
+    "retrieved": "2026-09-16",
+    "sha256": "a0900de63d961517ac276c86c7d96b08c892c96cca83f7a12d07ae8d4bda9acf",
+    "bytes": 810121,
+    "original_unchanged": true
+  },
+  {
+    "file": "files/08-testing/archive-2026-09-16/1.9-braking-test-7cfe1ccd28.pdf",
+    "original_filename": "1.9 Braking Test.pdf",
+    "source_type": "RJ customer material archive",
+    "retrieved": "2026-09-16",
+    "sha256": "7cfe1ccd28459957ed100ca0d8bd0b10ce591c5de6e604f3e4cb3afd55b84d65",
+    "bytes": 161541,
+    "original_unchanged": true
+  },
+  {
+    "file": "files/02-certifications/archive-2026-09-16/safety-ceritifcate-iso14001-rj-tech-jiangsu-yinguan-5831b9d53c.pdf",
+    "original_filename": "safety ceritifcate ISO14001-RJ Tech-Jiangsu Yinguan.pdf",
+    "source_type": "RJ customer material archive",
+    "retrieved": "2026-09-16",
+    "sha256": "5831b9d53c258e00d68b7add204d9a10fcbb0e551012f5c5223f74fe4c2d5ad6",
+    "bytes": 1328632,
+    "original_unchanged": true
+  },
+  {
+    "file": "files/02-certifications/archive-2026-09-16/safety-certificate-iso45001-rj-tech-jiangsu-yinguan-7f8c9ffb5a.pdf",
+    "original_filename": "safety certificate ISO45001-RJ Tech-Jiangsu Yinguan.pdf",
+    "source_type": "RJ customer material archive",
+    "retrieved": "2026-09-16",
+    "sha256": "7f8c9ffb5adba4f5e569391bc9f3a418cdf7c457c5289803292e3bec3adf21fd",
+    "bytes": 1242671,
+    "original_unchanged": true
+  },
+  {
+    "file": "files/02-certifications/archive-2026-09-16/1.3-iso9001-certification-7ac94c1614.pdf",
+    "original_filename": "1.3 ISO9001 Certification.pdf",
+    "source_type": "RJ customer material archive",
+    "retrieved": "2026-09-16",
+    "sha256": "7ac94c1614a6db5bdf1eacdb21a9d719ae7f8c7e742f94b04455b6ddf1e68a80",
+    "bytes": 1884267,
+    "original_unchanged": true
+  },
+  {
+    "file": "files/02-certifications/archive-2026-09-16/1.3-world-manufactor-identification-8283c9226b.pdf",
+    "original_filename": "1.3 World Manufactor Identification.pdf",
+    "source_type": "RJ customer material archive",
+    "retrieved": "2026-09-16",
+    "sha256": "8283c9226b1d28f64b76477faafaf165a8a58609a598f8288da5ee75bc379835",
+    "bytes": 1857950,
+    "original_unchanged": true
+  },
+  {
+    "file": "files/01-manuals/archive-2026-09-16/english-steinadler-pro-basic_product-manuals-ce7eba2fb8.pdf",
+    "original_filename": "English-Steinadler Pro Basic_Product Manuals.pdf",
+    "source_type": "RJ customer material archive",
+    "retrieved": "2026-09-16",
+    "sha256": "ce7eba2fb861becf741f8c111b361dd5baf7ce69b6a20de0391f97a9d8b9e474",
+    "bytes": 3133219,
+    "original_unchanged": true
+  },
+  {
+    "file": "files/04-accessories/archive-2026-09-16/how-to-use-ranger-extender-88fb3792ac.pdf",
+    "original_filename": "How To Use Ranger Extender.pdf",
+    "source_type": "RJ customer material archive",
+    "retrieved": "2026-09-16",
+    "sha256": "88fb3792aceaf05f0efedab99a2333f96932b5342708687e26793238f1c53da0",
+    "bytes": 619031,
+    "original_unchanged": true
+  },
+  {
+    "file": "files/05-specifications/archive-2026-09-16/rjtech-steinadler-family-specifications-1501-v5.0.pdf-b98710e576.pdf",
+    "original_filename": "RJTech Steinadler Family Specifications-1501-v5.0.pdf（副本）.pdf",
+    "source_type": "RJ customer material archive",
+    "retrieved": "2026-09-16",
+    "sha256": "b98710e5764204582efa1baebdc9aec441947250113206f40bb863206befe56f",
+    "bytes": 401007,
+    "original_unchanged": true
+  },
+  {
+    "file": "files/05-specifications/archive-2026-09-16/spec_v4.0_20251012-ac747b73dc.pdf",
+    "original_filename": "SPEC_V4.0_20251012.pdf",
+    "source_type": "RJ customer material archive",
+    "retrieved": "2026-09-16",
+    "sha256": "ac747b73dce4ccf6eb4da87908fcf72106123cd1783f19178a182ae005e72a56",
+    "bytes": 237682,
+    "original_unchanged": true
+  },
+  {
+    "file": "files/01-manuals/archive-2026-09-16/steialdler-pro-l7e-a1-fd722a41b7.pdf",
+    "original_filename": "Steialdler Pro L7e-A1.pdf",
+    "source_type": "RJ customer material archive",
+    "retrieved": "2026-09-16",
+    "sha256": "fd722a41b7bd893438db5e1ec595b3f7a55d909db9cac05b779de6bad977ef13",
+    "bytes": 2697810,
+    "original_unchanged": true
+  },
+  {
+    "file": "files/05-specifications/archive-2026-09-16/steinadler_pro_l7e_doppelsitzer_vs_einzelsitzer_de-d4bebcdd8a.pdf",
+    "original_filename": "Steinadler_Pro_L7E_Doppelsitzer_vs_Einzelsitzer_DE.pdf",
+    "source_type": "RJ customer material archive",
+    "retrieved": "2026-09-16",
+    "sha256": "d4bebcdd8a8406b3b1ace1d8e6073ee217d03be1f9b1656bf0ca58c7b3e502a5",
+    "bytes": 533753,
+    "original_unchanged": true
+  },
+  {
+    "file": "files/05-specifications/archive-2026-09-16/steinadler_pro_l7e_double-seat_vs_single-seat_en-7ed083dfe1.pdf",
+    "original_filename": "Steinadler_Pro_L7E_Double-Seat_vs_Single-Seat_EN.pdf",
+    "source_type": "RJ customer material archive",
+    "retrieved": "2026-09-16",
+    "sha256": "7ed083dfe196d627ec51eda0614f73d4601351975545631db969c9f916a48f8c",
+    "bytes": 552102,
+    "original_unchanged": true
+  },
+  {
+    "id": "collection-test-videos",
+    "source_type": "RJ customer material archive",
+    "packaged": "2026-09-16",
+    "sha256": "39a27ba32c88f974086764cab934e029bf3a8cd39abe786f13e06d9acf5e8c22",
+    "bytes": 19500239,
+    "original_media_unchanged": true,
+    "files": [
+      {
+        "file": "1.4 Endurance Testing Phase 1.mp4",
+        "bytes": 4808493,
+        "sha256": "8f50c14bdb6953c05a6729be46744673919fa857daabbbf22492621c6190d7c3"
+      },
+      {
+        "file": "1.4 Endurance Testing Phase 2.mp4",
+        "bytes": 4031917,
+        "sha256": "c2e098b12dda3a69f5ec33e3221833afcfdfa68ffaa77e9ff682c36b3e7f5590"
+      },
+      {
+        "file": "1.4 Endurance Testing Phase 3_climbing.mp4",
+        "bytes": 452733,
+        "sha256": "dc59186170424823014bd6ac2c035fcb0d1f29b2134add94233fbb63bc4a5acf"
+      },
+      {
+        "file": "1.4 Endurance Testing Phase 3_stage.mp4",
+        "bytes": 2045072,
+        "sha256": "a67991fd78f4f2dd28f640ce353fe76e7d8dd453bfca1242ea19f38a43a1809f"
+      },
+      {
+        "file": "1.4 Endurance Testing Phase 4_desert.mp4",
+        "bytes": 464732,
+        "sha256": "fb0e670455d78eff7d7593f1d1b8cf9ecea2c19a727fb953a3f2576a27675b5f"
+      },
+      {
+        "file": "1.4 Endurance Testing Phase 4_snowy.mp4",
+        "bytes": 2556324,
+        "sha256": "01f381d8cea2d51d0e862826cbad87b1eba98fe39dad4860f80c04d733bed148"
+      },
+      {
+        "file": "1.4 Endurance Testing Phase 4_water proofing.mp4",
+        "bytes": 1627952,
+        "sha256": "474e4be463627f8253fcfbd51f109b511ca802f9844f05ee8452a2a0357d69fd"
+      },
+      {
+        "file": "1.9 Braking Test 2WD.mp4",
+        "bytes": 1090647,
+        "sha256": "de8e85754f320dd212591cd08a31bf005181b9dcbcd058d040b3229cd95ae2b8"
+      },
+      {
+        "file": "1.9 Braking Test 4WD.mp4",
+        "bytes": 2532358,
+        "sha256": "fa45074ae5f5e40235457d21fda38882666f2899f1cd6ac133c46ebd8d59c67a"
+      }
+    ]
+  },
+  {
+    "id": "collection-application-videos",
+    "source_type": "RJ customer material archive",
+    "packaged": "2026-09-16",
+    "sha256": "e330052af07c88fef1e586336a1c57e7e1a71cdc33f5def98b5918f4c6ad5612",
+    "bytes": 642094612,
+    "original_media_unchanged": true,
+    "files": [
+      {
+        "file": "200kg-atv-200kg-trailer-brake-demo-connected.mp4",
+        "bytes": 1345351,
+        "sha256": "078ef1f51f15060753d8b8ade6fa9ec087d674e9fafd1e3d11621e1320ce94c0"
+      },
+      {
+        "file": "200kg-atv-200kg-trailer-brake-demo-not-connected.mp4",
+        "bytes": 1588807,
+        "sha256": "fbd509769d9c01e2bb8b3f885a67502a829fb15214d8e21e51ba532810ff6dd4"
+      },
+      {
+        "file": "200kg-atv-200kg-trailer-climbing.mp4",
+        "bytes": 4958284,
+        "sha256": "7ab5bc9e02809e855cea8771feca2bc8c5f55980512a2b3f68151faed29f83d6"
+      },
+      {
+        "file": "200kg-atv-brake-demo.mp4",
+        "bytes": 1253885,
+        "sha256": "a795160c5d90809b34a94a1785013443d9315aebcb6b3ddf16b6ec41ac9d7106"
+      },
+      {
+        "file": "200kg-load-demo1.mp4",
+        "bytes": 4873599,
+        "sha256": "c8102063630b4ab6cf296a29e0edd0d5ad63784bbabe2ecd1d5adbd57de00ba9"
+      },
+      {
+        "file": "200kg-load-demo2.mp4",
+        "bytes": 4380124,
+        "sha256": "bb2c94d0a72d70fa3b3d1509b10fe3053765f2507a9d58c9ed82b624d0c4a0cb"
+      },
+      {
+        "file": "200kg-over-speed bump-demo.mp4",
+        "bytes": 241918451,
+        "sha256": "17d362b975ef889fc326d6162fc7f309fc4e8c979550ed455236db3ef38a4c46"
+      },
+      {
+        "file": "demo-steering-1.mp4",
+        "bytes": 181729324,
+        "sha256": "3a587ecb5978e8b3e68c4e2423e744f24803e023ec34f3106d8182b0bd35894b"
+      },
+      {
+        "file": "demo-steering-2.mp4",
+        "bytes": 192186455,
+        "sha256": "8ac9fba6129e73535e2aefc5d9ea3b49a773b6481468fb581c774e8bc3d33b4c"
+      },
+      {
+        "file": "icy road.mp4",
+        "bytes": 8571356,
+        "sha256": "dcf545d5965a960fe2a1073b49b04e26daf6adbe14d6040eb6c78f5ea44ee4ae"
+      }
+    ]
+  },
+  {
+    "id": "collection-company-images",
+    "source_type": "RJ customer material archive",
+    "packaged": "2026-09-16",
+    "sha256": "c56df8974261ac78e3bf3f3e78d938aae1d624d4618462adf0f70a44a020f913",
+    "bytes": 2380307,
+    "original_media_unchanged": true,
+    "files": [
+      {
+        "file": "Leadership Team.png",
+        "bytes": 304861,
+        "sha256": "89807cee9742a887a6e8b4aa5493fd005ac18cc47713f009dbfeed9a8f213f24"
+      },
+      {
+        "file": "Component Warehouse in BE.jpeg",
+        "bytes": 158517,
+        "sha256": "b52602bf0a26da6f80dd55bbfe5df53a9ab42d9208138506bacfd6df4e0b4f5b"
+      },
+      {
+        "file": "Component Warehouse in BE2.jpeg",
+        "bytes": 323082,
+        "sha256": "d99d246f380769856cf6a997ba736996082cdb769a5b4c90f5d8e75b97961157"
+      },
+      {
+        "file": "Warehouse in NL.jpg",
+        "bytes": 326365,
+        "sha256": "061b2b7c82ae0f9b4976646e57bee5542471acb2857ed71161718afd80c8a420"
+      },
+      {
+        "file": "Warehouse in NL.png",
+        "bytes": 802232,
+        "sha256": "08d3300c5badf2e302af4b8193b8b9014f65ba0089a97012a0f99f9187cad1c7"
+      },
+      {
+        "file": "Warehouse in NL2.jpg",
+        "bytes": 338776,
+        "sha256": "4b9ea145d1c0bc3814f72df4ae02109ee6e2c91812cd61c0e81885519fb7122b"
+      },
+      {
+        "file": "Warehouse in SG.jpeg",
+        "bytes": 137299,
+        "sha256": "58534636ed85fa7c42397a35c77ac0fcda95482cc4b4161be02292e2530092e6"
+      }
+    ]
+  },
+  {
+    "id": "collection-company-presentation",
+    "source_type": "RJ customer material archive",
+    "packaged": "2026-09-16",
+    "sha256": "ea73dabf89789fdcb41947026aab0f0dec84fed76d565a7f3653392aef9ce40c",
+    "bytes": 247505767,
+    "original_media_unchanged": true,
+    "files": [
+      {
+        "file": "RJ Tech Profile.pptx",
+        "bytes": 249302631,
+        "sha256": "67d7a10a5ac44ef6b79b209666a322e7f2173c3cf3da0268ace42a73bbc68946"
+      }
+    ]
+  },
+  {
+    "id": "collection-product-images",
+    "source_type": "RJ customer material archive",
+    "packaged": "2026-09-16",
+    "sha256": "025da26cb4668ed9db6a021e6837765b6dd18639d0c729a63d185aa37021afc8",
+    "bytes": 216296730,
+    "original_media_unchanged": true,
+    "files": [
+      {
+        "file": "Belgium Cust L7e.jpeg",
+        "bytes": 345593,
+        "sha256": "5f1b8ab2bae0b18dda0a5101bcb1b6d3094d2ce4f600cfc7e6e9f7eec4810349"
+      },
+      {
+        "file": "Steinadler-L7e-real1.jpg",
+        "bytes": 192887,
+        "sha256": "c1275d45eecfe7485060a8f10aa7f85dcff16bf3eb951e35b17351f43dfbab3f"
+      },
+      {
+        "file": "Steinadler-L7e-real2.jpg",
+        "bytes": 149034,
+        "sha256": "4a5394eec0c8fd7cec89230858a1f34c3fc148d6138da8747dbd7dc02de18f40"
+      },
+      {
+        "file": "Steinadler-L7e-real3.jpg",
+        "bytes": 206069,
+        "sha256": "5d6d7670f0a96b9f80e3242af9fb6bec84cd392e553f8609b17d5aa1b514f9a1"
+      },
+      {
+        "file": "Steinadler-L7e-real4.jpg",
+        "bytes": 194550,
+        "sha256": "24965246e62363dfb145529fa61dcbf29fe8e59307770f335564dffd881ab362"
+      },
+      {
+        "file": "atv+45L cargo box.jpeg",
+        "bytes": 311441,
+        "sha256": "b73f2af088acebe3c29fe22f3c68f3b4b998846263c1c9dad961a8ab54360c5f"
+      },
+      {
+        "file": "front-vehicle.jpeg",
+        "bytes": 204352,
+        "sha256": "d2f5b0aaac6ccc5c53e534f3b80dfec19f11ea2870756e69518ec361c3c059a2"
+      },
+      {
+        "file": "front.png",
+        "bytes": 1512860,
+        "sha256": "aaabf0d39e435300f81b75af1113f5c78cf51a5626f645f38317a74d2ec68263"
+      },
+      {
+        "file": "italian dealer.jpg",
+        "bytes": 339931,
+        "sha256": "fadf22b7b6144a2c65cbf9c208c8a40f92302d1405da22f1fe3bca642b531ed8"
+      },
+      {
+        "file": "rear-vehicle.jpeg",
+        "bytes": 260910,
+        "sha256": "6c08ff866a588cc240ec882cd231920619bc4f8d6e84c07d60a88e8f6199129c"
+      },
+      {
+        "file": "side-vehicle.jpeg",
+        "bytes": 274043,
+        "sha256": "9188eb3b2bc9dba9ec3232283a55a3ae99fa1f7a8ad7e7bb5542bb676a1e50c3"
+      },
+      {
+        "file": "side2.png",
+        "bytes": 8370343,
+        "sha256": "ad0233b14b209df44bb56ca17c1460b494784640818411c74a66be1666533666"
+      },
+      {
+        "file": "250622-1.png",
+        "bytes": 7979407,
+        "sha256": "73e0b9e7e49fe4e07d3f38bf9cc2eb5e31131833ff7b89f5621c15f5573a456d"
+      },
+      {
+        "file": "250622-10.png",
+        "bytes": 5604958,
+        "sha256": "a04210e5363667a4e4038beacabda0d4a049c7923a546c7d2825c45f53459ab0"
+      },
+      {
+        "file": "250622-11.png",
+        "bytes": 6661458,
+        "sha256": "bcb7b20b87cd8029f183f4fede8490dff7f8e97112d38a9b9f47e208b503cf64"
+      },
+      {
+        "file": "250622-12.png",
+        "bytes": 6773977,
+        "sha256": "f2dc0d9c7e3327a5b92148c6f41525c37a506f639961fd7028fb3c92546eea9e"
+      },
+      {
+        "file": "250622-2.png",
+        "bytes": 7236088,
+        "sha256": "1894410a3bd38b242e7cf62aaa898f13eae41ecbe89b53475d93da7630cde91c"
+      },
+      {
+        "file": "250622-3.png",
+        "bytes": 6640864,
+        "sha256": "db1d9e090de7881ef3617edaa450314358a2d3cd4f0d9f6701c021aa8e084d8d"
+      },
+      {
+        "file": "250622-4.png",
+        "bytes": 7856654,
+        "sha256": "76fdfd216597484af94806934f4568389aad9ea8fa8e44edbacc7a2d9158d6a4"
+      },
+      {
+        "file": "250622-5.png",
+        "bytes": 8216283,
+        "sha256": "8c7bdd6c9cabf3a65e9dbe0f72b1a37f715fd487c241bd896cd49a07124137b1"
+      },
+      {
+        "file": "250622-6.png",
+        "bytes": 7331219,
+        "sha256": "c5d27d75ace11861b682d3567e598e709245661650778f74b7763d56613ec364"
+      },
+      {
+        "file": "250622-7.png",
+        "bytes": 7645449,
+        "sha256": "60dc13319aa7d0036afc5024644e1247d41891314ce64159fa44a24a9b4c71eb"
+      },
+      {
+        "file": "250622-8.png",
+        "bytes": 8603229,
+        "sha256": "cb74db1bf3b8f718edf90f5c5b2b1243689b0b8326d1daf269b7a8208d82ae72"
+      },
+      {
+        "file": "250622-9.png",
+        "bytes": 7777456,
+        "sha256": "a99784e1fe9eccbdb0656dfc910439cd951cfc762b8384025336019e79c79ea4"
+      },
+      {
+        "file": "250805-1.png",
+        "bytes": 7972186,
+        "sha256": "8cf601bfd4e75f11323d4889b77bea56cfeddc5e9c968599ae956faeb070a7df"
+      },
+      {
+        "file": "250805-2.png",
+        "bytes": 8157304,
+        "sha256": "5e2f19f755d77b287ffbb30b84c64a07176663c043805eecf1f0e61ba065fb31"
+      },
+      {
+        "file": "251014-1.png",
+        "bytes": 5237745,
+        "sha256": "6cd484eb7f6864af2160980843eb03df4b797099153ee8f21d3dba3fa878b2e6"
+      },
+      {
+        "file": "251014-10.png",
+        "bytes": 4207101,
+        "sha256": "f26145733e759b93bb5143358ea38c8045ef7b7de4203ad1413db57302b91b38"
+      },
+      {
+        "file": "251014-11.png",
+        "bytes": 5177159,
+        "sha256": "bbbf6e19ba20ed9490f465f63373a70542a2cbdf53a2deae57c913b562e1ead1"
+      },
+      {
+        "file": "251014-12.png",
+        "bytes": 5441699,
+        "sha256": "b1ace58f1687fcdd28e6e40d63caa81bd7c445b55fe6e59fed80ebc5bd99ae1f"
+      },
+      {
+        "file": "251014-2.png",
+        "bytes": 6546171,
+        "sha256": "ec1454d3f3eb8ac50e35b6260c70a68454405de2edf2d6c21e0fc07aa5fd18f3"
+      },
+      {
+        "file": "251014-3.png",
+        "bytes": 5671666,
+        "sha256": "10344efe3b8e1bbb4de0511f3858a4591520cb4a2ed45f3b821e7c846e71350e"
+      },
+      {
+        "file": "251014-4.png",
+        "bytes": 8236184,
+        "sha256": "f7a4d5bf9402535999c3321ce1bf063276ee7abb6cdc2214b86fdbf0b33bbbb1"
+      },
+      {
+        "file": "251014-5.png",
+        "bytes": 6230198,
+        "sha256": "04d88000de61c5d3c5f7fcb0e7a06a76357a822372f0cfa8ec692d3e89535ef8"
+      },
+      {
+        "file": "251014-6.png",
+        "bytes": 5936611,
+        "sha256": "0269a1c680f93d07332078a50317642c181ea2490a60137f5a858dfd90de7344"
+      },
+      {
+        "file": "251014-7.png",
+        "bytes": 7000667,
+        "sha256": "09c36968fbce5bf179ef369c22e9dd40f1c4fd17dfef71383dd4c38866af546d"
+      },
+      {
+        "file": "251014-8.png",
+        "bytes": 9034138,
+        "sha256": "0cb52eb790373b18bfe7ab1cb992d68f8e9ded0619814ea31d171f98d974d23c"
+      },
+      {
+        "file": "251014-9.png",
+        "bytes": 6582650,
+        "sha256": "625c0b5a8911d557f44e8a14312473c8b349737efa5d8e1282e7699d212494d7"
+      },
+      {
+        "file": "79e8d316a7bd2b766b8d8f202ca46608-1 (1).jpg",
+        "bytes": 742515,
+        "sha256": "ffdc4245ac1f82b9cf254673941ab4c5784532f2379abec36dd4a64e4fdafb49"
+      },
+      {
+        "file": "Singapore army partner.jpeg",
+        "bytes": 452344,
+        "sha256": "ba26290622cd9e3baa5ffd105e554ffdd8f9187d3ecb826829779493f352d211"
+      },
+      {
+        "file": "Singapore army partner2.jpeg",
+        "bytes": 90374,
+        "sha256": "f29689acf93800ad8d40a349b6870944c969e5976aa220bacec42187d186363d"
+      },
+      {
+        "file": "Steinadler Pro-Quebec.jpeg",
+        "bytes": 152970,
+        "sha256": "db331f33d93739341c56535cfcaf877dea111e2c3e3b9495ba76720ae3ad0f97"
+      },
+      {
+        "file": "Steinadler Pro-Quebec2.jpeg",
+        "bytes": 157141,
+        "sha256": "c109875ee56d3673e397b47473eab509d31b2b1f45681e317f7a56f067e0b194"
+      },
+      {
+        "file": "atv+trailer.jpg",
+        "bytes": 149541,
+        "sha256": "95152c2ee453604de76d59b28c782dbef701a390946fe3862d274e43a3ef3322"
+      },
+      {
+        "file": "desert test.jpg",
+        "bytes": 75460,
+        "sha256": "48d132887809567e55e24371353d0367ed6ab331b45c65856974427fccfaffaf"
+      },
+      {
+        "file": "forrest test in sweden.jpg",
+        "bytes": 589765,
+        "sha256": "30f2fd2c55b31c27ff41765f52e025fc6910b80e46d9361680704e2c3ce6af8a"
+      },
+      {
+        "file": "front-side-steinadler.jpg",
+        "bytes": 3175686,
+        "sha256": "df688f6b3162880927b95ca37ac713d1215d9a174ee53ee978ffb76af5e86add"
+      },
+      {
+        "file": "front-steinadler.jpg",
+        "bytes": 2604545,
+        "sha256": "37e330f6dd5482ae4983241ec37c1f559cfa96f4565707cf8c1e26d1089568dd"
+      },
+      {
+        "file": "game.jpg",
+        "bytes": 5604428,
+        "sha256": "91a576731e4cb714e5ec22479e878e3e69f653706fad5d1ec61d4800c119d128"
+      },
+      {
+        "file": "new-rear-seat8_Copy.jpg",
+        "bytes": 6770097,
+        "sha256": "935cea4111d829dbebb57aa23cc66df8f9c431a8ac3b579d497b961bff84fcb5"
+      },
+      {
+        "file": "range extender case.jpg",
+        "bytes": 545418,
+        "sha256": "89566985755ae4cbde5bbbb11c1e170fb864df4626476c46f0a136086b7cbc87"
+      },
+      {
+        "file": "rj and swedish dealer.jpeg",
+        "bytes": 235988,
+        "sha256": "b918f7f3e777359dcd2d63320d8753645af460df5f274a246e7ba40cb1ec6d68"
+      },
+      {
+        "file": "rj people and atv.jpg",
+        "bytes": 319634,
+        "sha256": "3f2a1c197d69b0cb36520b086a09856a8bceaca8d15acc2ce5e1e090858fad58"
+      },
+      {
+        "file": "side-steinadler.jpg",
+        "bytes": 2819554,
+        "sha256": "7b0a49845602dbb0085433704b08703df8368e9690773f29ad721daed87851c5"
+      },
+      {
+        "file": "Homologation.png",
+        "bytes": 133492,
+        "sha256": "3293306a08d4aee41216866f929f1951e8866fc1dc4e3591c7e19c7b8e327fd7"
+      },
+      {
+        "file": "Steinadler.jpg",
+        "bytes": 176974,
+        "sha256": "04598c597b537cdeeaf210e9b80867523f65859b9c06f320efe7fa79b6535473"
+      },
+      {
+        "file": "图片_20260414085126_116_865.jpg",
+        "bytes": 661950,
+        "sha256": "02e152adb9ad4d4a48fbd304a0344b75cce69f834667fd297c1e30275d45a8af"
+      }
+    ]
+  },
+  {
+    "id": "marketing-archive-0",
+    "sha256": "981e9965a095d77387a622683b40e630d9b999968adac52a902e876ed566c629",
+    "bytes": 46364717,
+    "files": [
+      {
+        "filename": "240526-ATV-flyer.pdf",
+        "sha256": "984157373873643980b72c31a4517c568d41043b55ec9c50986025f9cb34ba7a",
+        "bytes": 3312151
+      },
+      {
+        "filename": "240602-ATV-flyer-print.pdf",
+        "sha256": "a28ffc8682cb75e5a51542870029670abc701ef59043ba4f3763f8345825fa79",
+        "bytes": 7821238
+      },
+      {
+        "filename": "240602-ATV-flyer.pdf",
+        "sha256": "6b8285f9db4d0f029fc7de5532a02d3216d6e15b30e82bae6244a331944c8697",
+        "bytes": 4047121
+      },
+      {
+        "filename": "240730-ATV-flyer-print.pdf",
+        "sha256": "180786902da4bf7d6addd73fd3794fd230cd73cbc5834c7eb96b476349e2b493",
+        "bytes": 9283575
+      },
+      {
+        "filename": "240730-ATV-flyer.pdf",
+        "sha256": "d07d31e54fe814f597f8ddeead3aa6c4d2b47669f88597d13f07cd714cde9765",
+        "bytes": 4748906
+      },
+      {
+        "filename": "240907-ATV-flyer-print.pdf",
+        "sha256": "4222f9243f412fde67f51e5fdda8e8eac476508d80d2089f946ead78c6d9bd6b",
+        "bytes": 9285024
+      },
+      {
+        "filename": "240907-ATV-flyer.pdf",
+        "sha256": "a229b64a50a93993b0e03901822ed49bc7baaadb720440f4840b0154e9d082b6",
+        "bytes": 4760789
+      },
+      {
+        "filename": "RJTech_Product_Introduction_Steinadler_V4.0_20240804.pdf",
+        "sha256": "016931ed92cb2de893a7efd448255dd9a5120fbd1e96179b92b8dd0ac0db258b",
+        "bytes": 4760559
+      }
+    ],
+    "source_type": "Historical customer marketing archive",
+    "original_media_unchanged": true
+  },
+  {
+    "id": "marketing-archive-1",
+    "sha256": "bb00eea4964136716face076852e704104d2dcc1c62179077ccda43c644b8d96",
+    "bytes": 7190111,
+    "files": [
+      {
+        "filename": "250306-SVEAFORDON-Arial-Interactive.pdf",
+        "sha256": "4d170afe9a88a8a34b426da1953583ad3289d51bc07b62a313d6f4319b24d30b",
+        "bytes": 1536565
+      },
+      {
+        "filename": "250306-SVEAFORDON-Arial-Print.pdf",
+        "sha256": "ea6fc822becdd3237d0fd2c2611057ad3c80314543743a2c246ddb045565f7a8",
+        "bytes": 1543270
+      },
+      {
+        "filename": "250306-SVEAFORDON-Interactive.pdf",
+        "sha256": "1e9aa5cc309ae8db6826b3a91bff9c7bbf91b8f34018d149aa501a7a3b147d00",
+        "bytes": 1493397
+      },
+      {
+        "filename": "250306-SVEAFORDON-Print.pdf",
+        "sha256": "e4ef4cb6f9d032fd6b46ecda23a8c5b80158dc62903a28d7b7cc8592194e8e17",
+        "bytes": 1499923
+      },
+      {
+        "filename": "250307-SVEAFORDON-ins.pdf",
+        "sha256": "3909d9585b9d546db8d7f61768342ef475a9df043dc9c3d93a4a96b7c01ddac6",
+        "bytes": 1400078
+      }
+    ],
+    "source_type": "Historical customer marketing archive",
+    "original_media_unchanged": true
   }
 ]

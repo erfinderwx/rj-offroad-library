@@ -2,6 +2,8 @@
 """Check actual file hashes, paths, translations, and public-catalog integrity."""
 import hashlib
 import json
+import re
+import zipfile
 from pathlib import Path
 from urllib.parse import urlparse
 
@@ -38,7 +40,14 @@ for r in j['documents']:
 serialized = json.dumps(j, ensure_ascii=False)
 for forbidden in ['/Users/', '/var/folders/', 'mail.google.com', 'chatgpt.com/c/', 'drive.google.com', 'Commercial-in-Confidence']:
     check(forbidden not in serialized, 'Internal source leaked into public catalog: '+forbidden)
+# This public library intentionally excludes internal R&D and bid documents.
+blocked_name = re.compile(r'(?i)(specs[ _-]*for[ _-]*vetting|steerai.*proposal|proposal.*steerai|mutual[ _-]*nda|sensor[ _-]*architecture|TAR-UGV|内部战略|投标|会议纪要|感知系统方案)')
 for f in SITE.rglob('*'):
+    check(not blocked_name.search(f.name), 'Internal R&D or bid filename in public site: '+f.name)
+    if f.is_file() and f.suffix.lower() == '.zip':
+        with zipfile.ZipFile(f) as archive:
+            for name in archive.namelist():
+                check(not blocked_name.search(name), 'Internal R&D or bid member in archive: '+name)
     check(f.name not in {'.DS_Store', '.env'}, 'Unwanted site file: '+str(f))
 if errors:
     raise SystemExit('\n'.join(errors))

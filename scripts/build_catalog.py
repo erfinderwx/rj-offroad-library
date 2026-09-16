@@ -44,6 +44,7 @@ def build():
     missing = sorted(set(metadata) - seen_paths)
     if missing:
         raise ValueError('Metadata points to missing files: ' + ', '.join(missing))
+    records.sort(key=lambda r: (r['category'], metadata.get(r['file'], {}).get('sort_priority', 1), r['file']))
     records.extend(config.get('resources', []))
     updated = config['updated']
     try:
